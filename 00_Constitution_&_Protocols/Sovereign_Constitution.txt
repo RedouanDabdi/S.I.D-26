@@ -1,0 +1,15 @@
+# S.I.D-26: DIGITAL INTEGRITY CONSTITUTION (v1.0)
+# CLASSIFICATION: TOP SECRET / ROOT EYES ONLY
+# ARCHITECT: Redouan Dabdi
+
+[ARTICLE 1] TERRITORIAL DATA SOVEREIGNTY
+All system data is classified as a National Asset. Data must reside within the territorial borders of Spain (Sovereign Cloud) or within encrypted local vaults. No unencrypted byte shall cross national borders.
+
+[ARTICLE 2] THE ZERO-ERROR DOCTRINE
+A system error is defined as a security breach. We do not patch; we re-engineer. Any component failing to meet 99.999% precision must be isolated and subjected to forensic audit. Perfection is the only standard.
+
+[ARTICLE 3] ABSOLUTE HIERARCHY (ROOT ACCESS)
+The Strategic Systems Architect holds exclusive "Root" authority. Core code modifications and cryptographic keys are strictly restricted to the Architect. No democratic access to the kernel is permitted.
+
+---
+System Status: INITIALIZING...
